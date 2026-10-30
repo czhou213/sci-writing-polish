@@ -1,17 +1,19 @@
 ---
 name: sci-writing-polish
-description: Polish and develop English scientific manuscripts at section, paragraph, and sentence level, improving language, content organization, and reasoning while preserving evidence. Use for SCI manuscript editing, paragraph restructuring, or drafting from supplied research material; also supports requests for SCI论文润色、段落优化、英文科研写作.
+description: Edit English scientific manuscripts for precise language, coherent paragraphs, and evidence-calibrated reasoning. Use for manuscript polishing, SCI论文润色, section restructuring, or drafting from supplied research material.
 ---
 
 # SCI Writing: Language, Structure, and Reasoning
 
-Help readers understand why the study was needed, what was done, what was found, and why it matters. Use the Day 1 Nature Masterclasses framework: **Be concise. Be specific. Be logical.** These are writing principles, not journal acceptance criteria.
+Help readers understand why the study was needed, what was done, what was found, and why it matters. Make the prose concise, specific, and logically connected while preserving scientific meaning. These are editing goals, not journal acceptance criteria.
 
 ## English-first and source-faithful
 
-Write manuscript revisions, proposed sentences, paragraph plans, and writing examples in English by default. When the user supplies Chinese research notes for an English paper, develop English prose from those notes without inventing missing information. Follow an explicitly requested output language. Explanations may follow the user's conversation language; keep technical writing labels in English when useful.
+Write manuscript revisions, proposed sentences, paragraph plans, and writing examples in English by default. When the user supplies non-English research notes for an English paper, develop English prose from those notes without inventing missing information. Follow an explicitly requested output language. Explanations may follow the user's conversation language; keep technical writing labels in English when useful.
 
-Prefer the original English teaching terminology and functional sequences quoted in the references over back-translations of Chinese notes. Read [provenance.md](references/provenance.md) when checking attribution. Labels marked **Course wording** are verified slide excerpts; **Editorial application** identifies operational extensions and constructed sentence frames. Adapt rhetorical functions to the manuscript; do not import scientific claims, data, or long passages from the course's example papers.
+Use the bundled references directly; no private notes, archived slides, account, or external tool is required for ordinary editing. See [provenance.md](references/provenance.md) for the guidance's scope and attribution boundaries.
+
+Adapt to the discipline and article type. A clinical report, computational benchmark, theoretical paper, and qualitative study need different evidence and terminology; do not impose clinical endpoints or IMRaD on all of them. Preserve the author's English variant and established technical vocabulary unless a different style is requested.
 
 ## Scope and depth
 
@@ -22,7 +24,7 @@ Infer the section, audience, task, and depth from the supplied material. Proceed
 - **Deep:** When restructuring is requested, reorganize paragraphs and the argument; explain substantive moves and retain counterevidence, null findings, and limitations.
 - **Draft from supplied material:** When asked to write, map supplied findings, methods, and cited evidence to the appropriate paragraph functions. Draft supported material in English; list missing evidence separately. Do not treat empty functional slots as permission to invent a complete study.
 
-A single paragraph does not require a full manuscript report. Without a named journal, use field-appropriate scientific English. Interpret “Nature style” as reader-oriented clarity. Resolve language issues directly; ask only about ambiguity that affects scientific meaning, and continue with unaffected material.
+A single paragraph does not require a full manuscript report. Without a named journal, use field-appropriate scientific English. Interpret “Nature style” as reader-oriented clarity. Resolve language issues directly. When ambiguity affects scientific meaning, edit unaffected material and isolate an author query; offer conditional alternatives when useful. Do not select a scientific interpretation just to produce fluent prose.
 
 ## Two editing dimensions, three levels
 
@@ -41,7 +43,7 @@ Work from **section purpose → paragraph role and main message → sentence fun
 | IMRaD or manuscript-level narrative | [sections.md](references/sections.md); add paragraph-architecture.md for detailed edits |
 | Titles, keywords, abstracts | [title-abstract.md](references/title-abstract.md) |
 | Figures, tables, legends | [figures.md](references/figures.md) |
-| Source attribution and course boundaries | [provenance.md](references/provenance.md) |
+| Attribution and applicability boundaries | [provenance.md](references/provenance.md) |
 
 ## Scientific meaning and evidence
 
@@ -59,11 +61,12 @@ Ordinary editing uses the supplied material. When external fact-checking, new re
 ## Edit and verify
 
 1. Identify the audience, focus, and research question. Track the intervention/variable/condition, outcome, and measurement source where applicable.
-2. Resolve paragraph roles and sentence order before polishing vocabulary. In deep editing, align research question, aim, evidence, and conclusion.
-3. Compare the revision with the original for numbers, units, directions, citations, negation, uncertainty, exceptions, and scope. Check that compression has not removed reproducibility details or contrary evidence.
-4. Deliver supported revisions; isolate unresolved scientific ambiguities and missing evidence.
+2. Keep a consistent term for each construct, outcome, group, and method. Preserve specialized nomenclature; do not introduce stylistic synonyms that suggest different variables.
+3. Resolve paragraph roles and sentence order before polishing vocabulary. In deep editing, align research question, aim, evidence, and conclusion.
+4. Compare the revision with the original for numbers, units, directions, citations, negation, uncertainty, exceptions, and scope. Check that compression has not removed reproducibility details or contrary evidence.
+5. Read the revision on its own for coherence, then compare it back to the source. Deliver supported revisions; isolate unresolved scientific ambiguities and missing evidence. A shorter or more formal version is not automatically a better one.
 
-Retain already effective prose. Do not impose fixed sentence counts, a 10–20-word limit, voice quotas, or indiscriminate synonym replacement.
+Keep reasoning analysis internal unless it helps explain a substantive change. Retain already effective prose. Do not impose fixed sentence counts, a 10–20-word limit, voice quotas, or indiscriminate synonym replacement.
 
 ## Deliverables
 

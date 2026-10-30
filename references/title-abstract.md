@@ -2,11 +2,9 @@
 
 ## Titles
 
-**Course wording, p. 402:** “State what’s important”; “Contains keywords”; “Study design (clinical).” Items to avoid include “Clever titles”, “Being too vague”, “Abbreviations”, and “New” or “novel”.
+State the intervention/variable, outcome, and relevant population. Preserve design or comparator details when informative or required. A declarative title must not imply a stronger causal result than the design supports. A descriptive title can foreground the question or design. Preserve distinctions such as `female mice` rather than shortening to `mice` or `humans`.
 
-**Editorial application:** State the intervention/variable, outcome, and relevant population. Preserve design or comparator details when informative or required. A declarative title must not imply a stronger causal result than the design supports. A descriptive title can foreground the question or design. Preserve distinctions such as `female mice` rather than shortening to `mice` or `humans`.
-
-Treat slide title-length suggestions as teaching heuristics, not journal rules. Count against an explicit user/journal limit. Offer alternatives with substantively different emphasis instead of many synonym variants.
+Use specific, searchable wording and avoid promotional novelty claims, unnecessary abbreviations, or a clever phrase that obscures the subject. Do not impose a universal title-length rule. Count against an explicit user/journal limit. Offer alternatives with substantively different emphasis instead of many synonym variants.
 
 ## Keywords
 
@@ -16,20 +14,18 @@ Call unsearched suggestions candidate keywords. Do not claim database verificati
 
 ## Abstracts
 
-**Course wording, p. 447:**
+An abstract should let a reader identify:
 
-| Reader's question | Content |
+| Reader need | Content |
 |---|---|
-| “Why did the study need to be done?” | “Introduce topic and problem” |
-| “What did you do?” | “Your aims and methodology” |
-| “What did you find?” | “Key results” |
-| “How will the study advance the field?” | “Conclusions and implications” |
+| Reason for the work | Specific problem and supported research need |
+| Approach | Aim, design, evidence source, and comparison |
+| Findings | Principal results, effect magnitude, and relevant uncertainty |
+| Meaning | Evidence-calibrated answer and essential scope limitations |
 
-**Course wording, p. 452:** “Write your abstract section-by-section.”
+Apply these functions in a narrative abstract or distribute them under the supplied structured headings. Keep background brief, state the actual design and comparison, report the principal findings with appropriate uncertainty, and give a bounded answer. Follow known journal requirements; do not invent mandatory headings.
 
-**Editorial application:** Apply these functions in a narrative abstract or distribute them under the supplied structured headings. Keep background brief, state the actual design and comparison, report the principal findings with appropriate uncertainty, and give a bounded answer. Follow known journal requirements; do not invent mandatory headings.
-
-Drafting frames below are editorial constructions, not quotations or fixed sentence requirements:
+Optional drafting frames below describe functions, not fixed sentence requirements:
 
 - Background/gap: `[Problem] remains unresolved because [supported limitation].`
 - Aim/method: `We evaluated [question] using [design] in [population].`

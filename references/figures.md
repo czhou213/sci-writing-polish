@@ -1,7 +1,5 @@
 # Figures, Tables, and Legends
 
-**Course framing, p. 3:** “Ensuring your data is presented effectively in graphs, tables, and images.” Day 1 Module 3 occupies PDF pp. 215–303. The checks below are editorial applications, not verbatim slide instructions.
-
 Edit the supplied presentation. A polishing request does not authorize recalculating data or recreating every figure. If only a legend is provided, state that the visual cannot be checked.
 
 ## Presentation checks

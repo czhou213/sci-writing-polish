@@ -4,7 +4,7 @@
 
 Optimize **content and reasoning** before **language**. Identify the paragraph's job, its main message, each sentence's function, the supported evidence, and the connection to neighboring paragraphs. Then revise information order, topic/stress positions, signposting, voice, and wording.
 
-The quoted functional chains below retain the course's English wording. The finer paragraph types and sentence frames are **editorial applications**, not the lecturer's verbatim templates. Arrows indicate functions, not mandatory sentence counts. A function may span several sentences; compatible functions may share one sentence. Do not force Methods or legends into a claim–evidence–interpretation pattern.
+The functional chains below are adaptable editorial aids, not quotations or prescribed templates. Arrows indicate functions, not mandatory sentence counts. A function may span several sentences; compatible functions may share one sentence. Do not force Methods or legends into a claim–evidence–interpretation pattern.
 
 Use supplied facts, clarify supported relationships, and request missing evidence separately. Do not create a gap, mechanism, sample-size calculation, prespecified analysis, or validation to complete a pattern. Preserve P1/P2 identifiers for traceability. In standard mode, propose cross-paragraph moves; in deep mode, execute and explain them.
 
@@ -22,9 +22,9 @@ Use supplied facts, clarify supported relationships, and request missing evidenc
 
 ### Literature synthesis
 
-**Course wording, p. 162:** “State claim about the topic” → “Support claim with evidence (published studies)” → “Further interpretation(s)” → “Emphasize why important to the reader.”
+**Functions:** Supported synthesis claim → relevant published evidence → interpretation within its limits → significance for the research question.
 
-**Application:** Open with an evidence-supported synthesis claim; group studies by the claim or comparison they inform; explain their agreement, differences, or scope; show the connection to the research need. Keep citations attached to their claims. If only an author-by-author list is supplied, provide limited integration and identify the information needed for stronger synthesis.
+**Editing decision:** Open with an evidence-supported synthesis claim; group studies by the claim or comparison they inform; explain their agreement, differences, or scope; show the connection to the research need. Keep citations attached to their claims. If only an author-by-author list is supplied, provide limited integration and identify the information needed for stronger synthesis.
 
 **Language:** Prefer claim-led sentences to repetitive `X et al. found…` when justified. Different populations or conditions do not automatically establish a controversy. Do not infer a common mechanism merely from similar outcomes.
 
@@ -32,7 +32,7 @@ Use supplied facts, clarify supported relationships, and request missing evidenc
 
 **Functions:** What is known → precise unknown/limitation/controversy → why resolving it matters → question addressed here.
 
-These gap categories follow course p. 124; the sentence sequence is an editorial application.
+A gap may concern an unresolved question, an existing approach's limitation, or conflicting evidence. Choose the category supported by the supplied literature.
 
 **Language:** A supported `It remains unclear whether…` is more precise than an unsupported `No study has ever…`. A small publication count is not, by itself, a consequential knowledge gap.
 
@@ -47,6 +47,8 @@ These gap categories follow course p. 124; the sentence sequence is an editorial
 Use `prespecified` or `hypothesized` only if the material establishes that status. Whether the Introduction previews findings depends on the article and user preference. Do not end with an unsupported claim that practice has already changed.
 
 ## Methods
+
+Use the subtypes relevant to the article. For computational work, participants may become datasets or systems, and measurement may become evaluation; for theoretical work, clarify assumptions, definitions, derivation steps, and the domain of a result. Do not add clinical reporting categories to unrelated work.
 
 Organize around procedures and information needed to assess the study; a concluding interpretation is usually unnecessary.
 
@@ -66,7 +68,7 @@ Keep planned sample size distinct from analyzed sample size. Available database 
 
 Technique/intervention and purpose → supported rationale if needed → actual sequence, doses, timing, conditions, and controls → implemented quality or bias controls.
 
-Place the entity and action close together; divide long procedure lists at natural stages. Passive voice may keep the sample or technique in the topic position, following course p. 76. Never invent `we` as the actor or add unreported blinding or randomization.
+Place the entity and action close together; divide long procedure lists at natural stages. Passive voice may keep the sample or technique in the topic position, when that focus helps the reader. Never invent `we` as the actor or add unreported blinding or randomization.
 
 ### Outcomes and measurement
 
@@ -90,9 +92,9 @@ If only the procedure is known, improve that description and ask for the missing
 
 ## Results
 
-### Course paragraph chain
+### Evidence-unit organization
 
-**Course wording, p. 312:** “Introduce figure” → “Discuss trends, patterns, and/or relationships” → “Summary/takeaway message.” The final message is qualified by “This is not an interpretation.”
+**Functions:** Orient to the comparison or evidence → describe the principal pattern with estimates → state the factual takeaway. Use a figure reference where it helps locate the evidence.
 
 Apply this chain to an evidence unit; do not make one paragraph per figure an absolute rule. Where the analysis needs orientation, introduce its purpose; where the result is straightforward, lead with the finding. Match integrated interpretation to the article's Results–Discussion convention rather than adding mechanisms to separate Results by default.
 
@@ -134,17 +136,15 @@ Split when more than one central question is being answered. A takeaway may clos
 
 Research problem and population if needed → most important finding → essential supporting achievements → what part of the original question has been answered.
 
-**Course section framing, pp. 343–344:** “Reintroduce topic”; “Restate the research problem”; “Summarize key achievements.”
-
 Do not repeat the abstract or all numerical details. State an inconclusive or negative primary answer accurately rather than replacing it with `promising`.
 
 ### Main finding, interpretation, and literature context
 
-**Course wording, p. 345:** “Summarize key findings” → “Interpretation of the findings” → “Context with previous studies” → “Synthesize to highlight value.”
+**Functions:** Key finding → bounded interpretation → comparison with prior evidence → synthesis of what this finding adds.
 
-Keep this as the default functional chain; context and interpretation may exchange positions if the reasoning reads more clearly, as the course's worked example also illustrates. Make the final sentence explain what is now understood, rather than merely listing agreement with earlier studies.
+Context and interpretation may exchange positions when the argument reads more clearly. Make the final sentence explain what is now understood, rather than merely listing agreement with earlier studies.
 
-**Language:** Use `may`, `suggest`, `likely`, or `possibly` for genuine interpretive uncertainty (p. 349). `Consistent with` does not establish a shared mechanism. Describe why studies differ only when the supplied evidence supports that explanation.
+**Language:** Use `may`, `suggest`, `likely`, or `possibly` for genuine interpretive uncertainty. `Consistent with` does not establish a shared mechanism. Describe why studies differ only when the supplied evidence supports that explanation.
 
 ### Possible mechanism
 
@@ -190,7 +190,7 @@ Do not introduce new data, mechanisms, populations, or validated applications. A
 
 Problem and need → aim and design/population/comparison → principal results and uncertainty → bounded answer and implications.
 
-Use the course's four reader questions in [title-abstract.md](title-abstract.md). Implement the functions as a narrative paragraph or under supplied structured headings. Background should not displace primary results. Preserve negative findings and essential qualifications during compression.
+Use the reader questions in [title-abstract.md](title-abstract.md). Implement the functions as a narrative paragraph or under supplied structured headings. Background should not displace primary results. Preserve negative findings and essential qualifications during compression.
 
 ## Figure and table legends
 
@@ -200,7 +200,7 @@ This is a descriptive architecture, not a claim–literature–synthesis argumen
 
 ## Worked revision: procedure order
 
-Constructed language exercise, not a course quotation or real study.
+Fictional language exercise; the quantities illustrate editing, not a real study.
 
 **Original:**
 

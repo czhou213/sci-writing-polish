@@ -2,25 +2,17 @@
 
 ## Planning your narrative
 
-**Course wording, p. 114:** “Identify your audience”; “Identify the focus”; “Structure your narrative.”
+Identify the intended reader, the question investigated, the outcome or property measured, and the source of evidence. Align the question, aim, evidence, and conclusion. A missing study is not automatically an important gap; show the unresolved issue and its consequence using supplied evidence.
 
-**Course wording, p. 117:** “Intervention, variable, condition”; “Outcome”; “Patient, animal, tissue.” The accompanying questions are “What are you investigating?”, “What are you measuring?”, and “From where are the measurements taken?”
-
-**Course wording, p. 124:** “Unknown — Discovery-based study”; “Limitation — Strategy-based study”; “Controversy — Comparative study.”
-
-**Editorial application:** Keep the research question, aim, and conclusion aligned. A missing study is not automatically an important gap. Relevance to an international readership does not establish global representativeness. Do not hide contrary evidence to create a cleaner story. Use [paragraph-architecture.md](paragraph-architecture.md) to implement the following section purposes.
+Adapt the narrative to the article type. IMRaD suits many empirical studies; computational, theoretical, qualitative, and review articles may need other structures. Use [paragraph-architecture.md](paragraph-architecture.md) for applicable paragraph functions rather than forcing every article into the same sequence. Preserve contrary evidence and distinguish a focused contribution from unsupported generalization.
 
 ## Introduction: why does the study need to be done?
 
-**Course wording, p. 133:** “Introduce the topic”; “Context for the study”; “Keep your readers in mind.”
-
 Provide the background the intended audience needs, synthesize the relevant knowledge, identify the specific unresolved problem, explain why it matters, and state the aim. Broaden or narrow context for the audience without adding unsupported burden estimates or mechanisms. Avoid unsupported `first` and `never` claims and author-by-author literature lists.
 
-**Course paragraph sequence, p. 162:** “State claim about the topic” → “Support claim with evidence (published studies)” → “Further interpretation(s)” → “Emphasize why important to the reader.”
+A useful literature paragraph moves from a supported synthesis claim through relevant evidence and its limits to the unresolved issue motivating this study.
 
 ## Methods: transparent and reproducible study description
-
-**Course framing, p. 107:** “Transparent Methods”; “Building confidence & trust in your study.”
 
 Organize study design, sources and selection, procedures, measurements, and analysis so readers can assess validity and reproduce relevant steps. Preserve actual eligibility criteria, sample-size rationale, allocation, timing, quantities, software/database versions, and availability details where provided. A reference to a standard method does not replace essential modifications or conditions.
 
@@ -28,17 +20,13 @@ Do not add randomization, blinding, ethics approval, registration, adjustment, o
 
 ## Results: guide readers through the evidence
 
-**Course wording, pp. 311–312:** “Complementary”; “Not redundant.” Paragraph sequence: “Introduce figure” → “Discuss trends, patterns, and/or relationships” → “Summary/takeaway message.” The slide adds: “This is not an interpretation.”
-
 State the comparison and main pattern, preserving key estimates and uncertainty. Guide attention to the figure rather than duplicating every cell. Use one coherent evidence unit per paragraph when practical; complex figures may need multiple paragraphs. Keep primary, secondary, subgroup, and exploratory findings distinct. Preserve null results and report discrepancies in numbers or units.
 
-This course sequence is a default for separate Results sections. Adapt to the article's conventions: combined Results–Discussion can integrate findings and bounded interpretations (course pp. 335 onward). Do not treat the course's worked paper examples as universal rules against all explanatory context.
+In separate Results sections, emphasize observations and factual takeaways. Combined Results–Discussion sections can integrate interpretations when clearly distinguished from observations.
 
 ## Discussion: synthesize the contribution
 
-**Course wording, p. 345:** “Summarize key findings” → “Interpretation of the findings” → “Context with previous studies” → “Synthesize to highlight value.”
-
-**Course section sequence, p. 368:** “Summarize what you did” → “Interpret your findings” → “Importance for the field.” It includes similarities and differences, unexpected/null results, limitations, the main conclusion, and implications.
+Organize the contribution around the main answer, interpretation in light of previous evidence, inferential limits, and supported implications. The order should serve the argument rather than a fixed paragraph count.
 
 Connect the interpretation back to the question raised in the Introduction. Explain what agreement or disagreement with prior evidence means when the supplied evidence permits; `consistent with` alone is not synthesis or mechanistic confirmation. Context and interpretation may change order to support the argument.
 

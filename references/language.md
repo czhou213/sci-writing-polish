@@ -1,134 +1,63 @@
-# Language: Be concise, Be specific, Be logical
+# Language: Precision, Coherence, and Readability
 
-## Course wording
+## Edit meaning before surface style
 
-From the slide deck, PDF file pages (one-based):
+Identify the sentence's subject, action, scientific claim, and relation to the paragraph's main message. Repair grammar and information order before considering vocabulary substitutions. Prioritize meaning, clarity, and flow; preserve effective wording and the author's voice.
 
-- **p. 8:** “Be concise”; “Be specific”; “Be logical.” The corresponding instructions are “Don’t overwhelm your readers with new information”; “Don’t assume your reader knows what you know”; “Guide your readers from one idea to the next.”
-- **p. 40:** “Use the stress position to emphasize what is important in your idea.”
-- **pp. 47–48:** “The stress position introduces the topic of the next sentence”; “The topic position introduces the idea of the current sentence”; “Signposting.”
-- **p. 51:** “Concise: one idea per sentence.”
-- **p. 54:** “Using hedging terms to introduce interpretations”; examples include “may”, “likely”, and “possibly”.
-- **p. 76:** “Active voice puts the investigators in the topic position”; “Passive voice puts the technique in the topic position.”
-- **p. 93:** “Use more active voice & strong verbs, and avoid complex words.”
+## Information order and sentence rhythm
 
-## Course vocabulary lists (PDF p. 91)
+Use the beginning to orient the reader and a natural point of emphasis, often the ending, for important new information. Connect sentences through a recognizable concept rather than a repeated connector. Keep subjects and verbs near each other; move long qualifications when they obscure the action without changing their scope.
 
-The slide titled **“Avoid complex words”** says “Words we recommend replacing with simpler ones.” These are style suggestions, not forbidden words. Preserve a term when it is the technically precise term, part of a field's established nomenclature, or carries a meaning that the simpler alternative does not. Prefer the simpler alternative when the more formal word adds only tone.
+Split a sentence when it contains competing messages or hides the main result. Keep clauses together when separation would obscure a comparison, qualification, or causal boundary. Vary sentence length rather than enforcing a word quota. Parallel grammar helps readers compare aims, groups, procedures, and findings.
 
-| Pompous vocabulary | Simpler alternatives |
-|---|---|
-| ameliorate | improve; make better |
-| commence | begin; start |
-| conspicuous | clear; visible; obvious |
-| corroborate | confirm; validate |
-| effectuate | accomplish; make happen |
-| elucidate | understand; explain |
-| embark | begin; start; perform |
-| emendate | revise; change |
-| endeavour | try; aim |
-| enhance | improve; increase |
-| exacerbate | worsen; heighten |
-| exhaustive | complete; thorough |
-| exhibit | present; display |
-| expedient | worthwhile; appropriate |
-| facilitate | help; ease; enable; aid |
-| impediment | obstacle; challenge |
-| implement | use; carry out |
-| implicate | suggest; imply |
-| inchoate | early; immature |
-| initialise | start; begin |
-| modality | way; approach |
-| nascent | new; developing; emerging |
-| obfuscate | hide; obscure; confuse |
-| paradigm | theory; concept; model |
-| polemic | argument |
-| prerequisite | requirement |
-| ramification | consequence |
-| relinquish | give up; abandon |
-| revoke | abolish; remove |
-| superfluous | unnecessary; irrelevant |
-| utilise | use |
+## Concision without loss
 
-The slide explicitly distinguishes these choices from **technical jargon**, which may be necessary to describe academic ideas. Do not replace technical terms merely to make prose sound simpler.
+Remove empty announcements and redundant nominalizations when they add no scientific meaning:
 
-## Course phrase and word-level edits
-
-The Day 1 slides also provide the following directly usable editing patterns:
-
-| Course example | More direct version | Editing decision |
+| Before | After | Condition |
 |---|---|---|
-| `It is well known that most orally administered drugs…` | Delete the introductory phrase when it adds no value. | Remove unnecessary words. |
-| `As a matter of fact, we found higher levels of expression of…` | Start with the actual finding. | Remove empty emphasis. |
-| `A number of studies have shown that metformin is…` | `Studies have shown that metformin is…` when the number is not informative. | Remove vague quantity. |
-| `It is worth mentioning that VEGFR inhibition is necessary…` | State the supported claim directly. | Remove announcement language. |
-| `…as described previously in our previous study.` | Remove the repeated `previously` / `previous study` wording. | Avoid repetition. |
-| `We conducted an evaluation to determine if the service increased the detection of interactions and the prevention of prescribing errors.` | `We evaluated if the service detected more interactions and prevented prescribing errors.` | Replace nominalizations with verbs; 20 words → 12 words in the slide example. |
-| `In order to make a decision if the dissolution rate was appropriate, we conducted an assessment of the drug release profile…` | `To decide if the dissolution rate was appropriate, we assessed the drug release profile…` | Replace `in order to`, `make a decision`, and `conducted an assessment`. |
-| `In contrast, PARP1 deficiency in mice was shown to accelerate aging and cause the precocious manifestation of spontaneous carcinogenesis.` | `In contrast, PARP1 deficiency in mice was shown to accelerate aging and lead to the early development of spontaneous tumors.` | Use simpler words while preserving the scientific claim. |
+| It should be noted that the signal decreased after heating. | The signal decreased after heating. | The announcement adds no qualification. |
+| We performed a comparison of the two algorithms. | We compared the two algorithms. | The action and comparison are unchanged. |
+| In order to estimate the error, we used repeated measurements. | To estimate the error, we used repeated measurements. | The purpose remains explicit. |
 
-The first five examples are taken from the slide's “Avoid unnecessary words” list (PDF pp. 25–27); the nominalization and complex-word examples are from pp. 85 and 90–91. The alternatives above follow the slide examples. They are not a license to remove a meaningful qualifier, change an association into causation, or replace a domain-specific term with a loose synonym.
+Do not compress away eligibility criteria, dose schedules, analysis populations, exceptions, time points, or reproducibility details. `Few studies` and `studies` make different claims. `In the tested samples` can be an essential scope restriction.
 
-## Signposting vocabulary (PDF p. 44)
+## Precision and terminology
 
-Use a signpost only when the logical relation is real, and vary repeated connectors. The slide groups the following words:
+Use one stable term for each construct, endpoint, group, and method. Preserve distinctions such as accuracy versus precision, concentration versus dose, risk versus odds, and measured versus predicted values. Do not expand an abbreviation by guessing its meaning. Define abbreviations when needed for the requested excerpt; avoid repeatedly redefining them within a complete manuscript.
 
-| Contrast | Similar | Result | Addition |
-|---|---|---|---|
-| however | likewise | therefore | additionally |
-| whereas | similarly | consequently | furthermore |
-| on the other hand | also | thus | moreover |
-| nevertheless | as well | as a result (of) |  |
-| although |  | due to |  |
-| yet |  | because of |  |
-| despite |  |  |  |
-| in contrast to |  |  |  |
-| by contrast |  |  |  |
+Replace an unclear pronoun with a supported noun: `this estimate`, `these measurements`. If two antecedents remain possible, query the author. Resolve misplaced modifiers, unclear comparisons, and ambiguous negation before polishing tone. For example, `only` must stay attached to what is actually restricted.
 
-Check grammar when choosing a connector: `despite` and `in contrast to` normally take a noun phrase or gerund, whereas `although` introduces a clause. Do not insert a result connector unless the evidence supports an inference; `therefore` cannot create causality.
+Prefer a familiar word when it expresses exactly the same meaning. A technical term is not inflated vocabulary merely because it is uncommon. Avoid synonym lists: `corroborate`, `confirm`, and `validate` are not interchangeable, and `modality` can denote a specific type of measurement or treatment.
 
-## Editorial application
+## Voice, verbs, and tense
 
-Prioritize scientific accuracy, main-message clarity, logical flow, then concision and rhythm.
+Choose active voice when the actor matters and passive voice when the material, process, or measured entity should stay in focus. Do not invent an actor to eliminate a passive. A direct verb can reduce abstraction, but a stronger-sounding claim is not a stronger verb: `suggests` must not become `proves` for style.
 
-### Be concise
+Keep tense tied to function: completed procedures and observations generally use past tense; established knowledge, figure contents, and current interpretations may use present tense. Follow field conventions and meaning rather than applying a mechanical section-wide tense conversion. Preserve tense distinctions that signal an ongoing process or a prior event.
 
-Remove empty introductions, repeated modifiers, and unnecessary nominalizations: `conducted an evaluation of` → `evaluated`; `made a decision to` → `decided to`; `in order to` → `to` where appropriate. These editing examples are retained from the course notes, not attributed as verbatim slide quotations.
+## Connections and scope
 
-Do not delete informative qualifiers such as `few studies`, `in this cohort`, or a measurement time point merely because the sentence remains grammatical without them. Preserve negation, comparators, uncertainty, and exceptions. The p. 15 suggestion of 10–20 words is a readability heuristic; that slide also recommends varying sentence length. Use short sentences to introduce or emphasize an idea and longer ones when necessary to develop it.
+Choose a connector only after identifying the actual relation:
 
-### Be specific
+- Contrast: `however`, `whereas`, `although`.
+- Addition or similarity: `also`, `similarly`.
+- Supported inference: `therefore`, `thus`.
 
-The notes organize specificity as **Precise / Justified / Qualified**. Resolve ambiguous `this`, `these`, and `it` using a supported noun: `this reduction`, `these applications`. If two antecedents remain possible, flag the ambiguity rather than selecting one.
+A repeated key noun or clear sentence order often gives a smoother transition than an added signpost. `Despite` takes a noun phrase or gerund; `although` introduces a clause. `Therefore` cannot supply missing evidence or establish causality.
 
-State the comparator, magnitude, time, and population when supplied. Do not manufacture numbers to replace “marked” or “slight.” Reserve statistical terminology for its intended meaning; `significant` is not a general synonym for important.
+## Observation, interpretation, and uncertainty
 
-### Be logical: topic position → stress position → signposting
+State directly what was measured or observed. Calibrate interpretations to the evidence without hedging every sentence. Keep numerical uncertainty, biological variability, model assumptions, and epistemic uncertainty distinct. `Significant` should not replace `important`, and a small P value does not describe effect magnitude.
 
-Identify what the reader already knows, what is new, and what deserves emphasis. Place the topic where it orients the reader; use the sentence ending to emphasize the key information when natural. Let the next sentence pick up an identifiable concept. Do not force every sentence into an identical pattern.
+Fictional language example:
 
-Use connectors only for supported relationships: `however` for contrast, `therefore` for an inference that the evidence actually warrants. A transition cannot supply a missing causal argument.
+> The estimated error varied across datasets. This variation persisted after normalization. Differences in dataset composition may explain the remaining variation.
 
-**Constructed example from the notes, not a research finding:**
+The final sentence is appropriate only when supplied evidence supports that possible explanation; continuity alone does not justify adding it.
 
-> We identified substantial variation in prescribing across hospitals. This variation persisted after adjustment for patient characteristics. The remaining variation may reflect differences in local prescribing practices.
+## Translation and final comparison
 
-The lexical chain supplies continuity; `may` distinguishes interpretation from observation. Use the final explanation only if the manuscript provides a basis for it.
+For non-English notes, reconstruct intended scientific relationships rather than translating word order literally. Use established English terminology; query a term with competing scientific meanings. Do not add a rationale or mechanism to make an incomplete note read like a finished argument.
 
-### Voice, strong verbs, and accessible vocabulary
-
-Prefer active voice when it makes the actor and action clearer. In Methods, passive voice can keep a technique or sample in the topic position, as the slides explicitly allow (pp. 73–76). Do not invent an actor or replace every passive with `we`.
-
-Keep subjects and verbs close; replace nominalizations with direct verbs where meaning is unchanged. A strong verb expresses the action precisely: it does not turn `suggests` into `proves`. Retain necessary technical terms and consistent endpoint names rather than cycling through loose synonyms.
-
-### Evidence versus interpretation
-
-Use calibrated hedging for interpretations; report established observations directly. Preserve the distinction between `was associated with` and `caused`. Voice alone does not determine causality.
-
-**Constructed editing example:**
-
-Original: `It is worth mentioning that we conducted an evaluation of the association between X and Y.`
-
-Revision: `We evaluated the association between X and Y.`
-
-The revision preserves an association analysis; `X improved Y` would change the scientific claim.
+Check every revision for changed actor, comparator, population, timing, negation, quantifier, unit, numerical precision, citation attachment, and claim strength. Read the finished paragraph for natural rhythm and recognizable focus. Avoid decorative transitions, promotional adjectives, and unnecessary rewrites of correct prose.
