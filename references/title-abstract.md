@@ -67,9 +67,65 @@ Neither title invents an adverse direction or changes the association to `Shift 
 
 ## Keywords
 
-Choose terms reflecting the actual question, population/material, outcome, mechanism, or central method. A method can be an excellent keyword in a methods paper. Consider precise phrases, synonyms, abbreviations, and applicable controlled vocabularies. Do not prohibit overlap with the title if accuracy or journal requirements favor it.
+### Generate a candidate pool
 
-Call unsearched suggestions candidate keywords. Do not claim database verification, ranking improvements, citation gains, or AI discoverability from keyword density. Search-result counts alone do not determine relevance.
+Start from what an intended reader would search for, using the supplied title, abstract, research question, and central findings. Extract concepts before choosing their wording:
+
+| Concept source | Candidate content | Selection boundary |
+|---|---|---|
+| Research problem | Disease, phenomenon, process, or technical task | Prefer the specific problem over a generic field label. |
+| Variable or intervention | Exposure, treatment, material, strategy, or algorithm | Use the actual entity; do not infer an unreported drug class or mechanism. |
+| Main outcome | Endpoint, measured property, performance criterion, or relationship | Name what was assessed, not a promotional conclusion. |
+| Evidence source | Population, tissue, organism, dataset type, or application domain | Include it when it helps distinguish the work; a broad organism name alone may contribute little. |
+| Central mechanism or method | Tested pathway, defining assay, analytical method, or study design | Include only if supported and central. A routine assay is not automatically a useful keyword, but a method is central in a methods paper. |
+
+Expand the pool with established synonyms, full names and familiar abbreviations, relevant controlled-vocabulary candidates, and terminology in supplied related papers. Do not import those papers' study facts or invent references. If external lookup is requested, verify unfamiliar vocabulary and inspect relevant papers or the appropriate subject thesaurus.
+
+For a substantial manuscript, about 15 initial candidates can help avoid committing to the first few obvious words; shorter material may justify fewer. Favor meaningful phrases, often two or three words, when they resolve ambiguity. Keep an established one-word term or a longer technical phrase when it is the accurate search concept. These are brainstorming aids, not required counts or phrase lengths.
+
+### Refine wording and remove weak candidates
+
+Group candidates by concept before narrowing the list. Prefer a set that covers distinct important aspects of the study over several near-synonyms for the same aspect.
+
+| Candidate problem | Action | Example or qualification |
+|---|---|---|
+| Too broad to identify the work | Add the defining concept when supported | `corrosion` may become `steel corrosion` when steel is the material actually studied. |
+| Generic research label | Replace with the actual scientific subject | `biological factor`, `research`, or `evaluation` alone rarely identifies the question. |
+| Administrative or publication metadata | Exclude from the scientific keyword list | Funding status does not describe the study's scientific content. |
+| Routine technique with little relevance to the main contribution | Drop or deprioritize | Retain a technique when it is the research contribution or a defining search route. |
+| Duplicate concept in several forms | Select the most useful form | Do not spend separate keyword slots on a full name and its abbreviation unless required or justified. |
+| Unsupported mechanism, application, or benefit | Exclude | A correlation study does not justify a treatment-mechanism keyword. |
+| Legitimately narrow concept with few publications | Retain if central and accurate | Low search volume alone is not a reason to discard a specialized term. |
+
+Use recognizable terms rather than constructing an unusual phrase solely to reduce search-result counts. Call a term a verified controlled-vocabulary heading only after checking the relevant vocabulary; otherwise label it a candidate term.
+
+### Optional database check
+
+Ordinary keyword drafting can proceed from the supplied material. If the user asks for search-informed selection, use a relevant database and evaluate both the wording and the results:
+
+1. Search each promising phrase and useful synonyms with a consistent field, date range, and matching approach. Account for database term mapping and phrase handling; counts from different query settings are not directly comparable.
+2. Inspect the relevance of returned records, not just the hit count. A very broad set can suggest adding a qualifier; an unexpectedly empty set can suggest a spelling issue, unusual wording, or a genuinely specialized topic.
+3. Prefer terms that accurately retrieve the intended topic. Do not choose a middle-sized count as an optimization target or discard a central term solely because it is common or rare.
+4. When reporting verification, identify the database, query, relevant filters, and search date. Report counts only if actually retrieved. Distinguish search-informed choices from candidates selected without lookup.
+
+### Assemble the submission list
+
+Use the journal's supplied number and vocabulary requirements. Without a known limit, choose a concise set covering the central concepts; roughly 8–10 strong concepts can be a planning pool rather than a mandatory submission list. Coordinate the title, abstract, and keyword list: place the most important concepts naturally in the title and abstract, and use keyword slots to add useful coverage.
+
+One planning arrangement is two central concepts in the title and six to eight additional concepts in the keyword list, when the manuscript and journal permit. Do not force that split, pad a short study to meet it, or prohibit overlap with the title when accuracy or journal requirements favor it. Do not repeat terms mechanically to create keyword density or claim ranking, citation, or AI-discoverability gains.
+
+Return the requested number as a clean, semicolon-separated list unless another format is requested. Without external verification, label the list **Candidate keywords**. Add a brief rationale or unresolved terminology query only when useful; do not show the entire brainstorming pool by default. If the requested count cannot be met without padding or unsupported concepts, explain the shortfall.
+
+### Worked keyword selection
+
+Fictional example: a cross-sectional study examines the association between shift work and sleep quality in nurses. No biological mechanism or treatment is evaluated.
+
+- Candidate concepts: shift work; sleep quality; nurses; cross-sectional study; work; health; melatonin; treatment.
+- Keep the first four: they identify the exposure, outcome, population, and design.
+- Remove `work` and `health` as unnecessarily broad here; exclude `melatonin` and `treatment` because the supplied study does not investigate them.
+- **Candidate keywords:** Shift work; sleep quality; nurses; cross-sectional study.
+
+This list is based on the supplied content, not a database search or a verified vocabulary mapping. It may overlap with the title; do not replace accurate central concepts with peripheral ones merely to avoid repetition.
 
 ## Abstracts
 
