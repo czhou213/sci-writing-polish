@@ -1,0 +1,4 @@
+interface:
+  display_name: "SCI Writing 润色优化"
+  short_description: "Polish scientific language, paragraph structure, and reasoning"
+  default_prompt: "Use $sci-writing-polish to improve the following manuscript in English, refining language, paragraph organization, and sentence functions while preserving evidence; explain substantive changes in my preferred language."
